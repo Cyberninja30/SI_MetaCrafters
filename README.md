@@ -3,13 +3,13 @@
 METACRAFTERS SUMMER TRAINING
 
 Description
-This repository contains all the projects I created and the languages I learnt during my 23' summer training. The various modules that I learnt were
+This repository contains all the projects I created and the languages I learned during my 24' summer training. The various modules that I learned were,
 
-JS proof - Beginner Course
-ETH proof - Beginner EVM Course
-ETH + AVAX proof - Intermediate EVM Course
-ETH proof - Advanced EVM Course
-POLY proof - Advanced Course
+1.JS proof - Beginner Course
+2.ETH proof - Beginner EVM Course
+3.ETH + AVAX proof - Intermediate EVM Course
+4.ETH proof - Advanced EVM Course
+5.POLY proof - Advanced Course
 
 Getting Started
 
