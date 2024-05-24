@@ -2,7 +2,7 @@
 
 METACRAFTERS SUMMER TRAINING
 
-Description
+# Description
 
 This repository contains all the projects I created and the languages I learned during my 24' summer training. The various modules that I learned were,
 
@@ -18,11 +18,11 @@ This repository contains all the projects I created and the languages I learned 
 
 Getting Started
 
-Installation
+# Installation
 
-You can download the program on your local server and run it using your preferred IDE and make sure you have the right extensions and compilers installed for the required language.
+You can download the program on your local server and run it using your preferred IDE and make sure you have the right extensions and compilers installed for the required language
 
-Author
+# Author
 
 Moinak Niyogi
 
