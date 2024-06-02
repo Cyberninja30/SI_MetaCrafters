@@ -10,9 +10,7 @@ This repository contains all the projects I created and the languages I learned 
 
 2. ETH proof - Beginner EVM Course
 
-3. ETH + AVAX proof - Intermediate EVM Course
-
-4. ETH proof - Advanced EVM Course
+3. ETH proof - Advanced EVM Course
 
 5. POLY proof - Advanced Course
 
