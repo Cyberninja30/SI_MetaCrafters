@@ -7,8 +7,8 @@ pragma solidity 0.8.18;
  */
 contract MySecondContract {
     // Public variables to store token details
-    string public tokenName = "MANGO";
-    string public tokenAbbrv = "MNG";
+    string public tokenName = "MOINAK";
+    string public tokenAbbrv = "MNX";
     uint public totalSupply = 0;
 
     // Mapping from address to balance
